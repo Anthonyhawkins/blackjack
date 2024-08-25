@@ -1,7 +1,8 @@
-# blackjack
+# Blackjack
+A simple implementation of the card game blackjack.  This code was featured in the article [How to Actually Develop Software - 10 Tips for Beginners](https://anthonyhawkins.medium.com/how-to-actually-develop-software-10-tips-for-beginners-54778a02eae8).
 
 ## Requirements
-- **Python**: 3.9+
+- **Python**: tested with 3.9+
 
 ## Rules of Blackjack
 1. Initial Setup
